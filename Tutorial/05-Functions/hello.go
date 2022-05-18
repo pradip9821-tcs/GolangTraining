@@ -9,6 +9,9 @@ func main() {
 	foo()
 	var ans = sum(a, b)
 	fmt.Println(ans)
+
+	c := 3
+	fmt.Printf("%b\n", c)
 }
 
 func foo() {
