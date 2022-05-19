@@ -15,5 +15,4 @@ func main() {
 		fmt.Print(x, " ")
 	}
 	fmt.Println()
-	fmt.Print()
 }
